@@ -1,0 +1,20 @@
+/* worst web design skills you've ever seen */
+body {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+h1, h2, h3, h4, h5, h6, p, figcaption {
+    text-align: center;
+    color: #ffffff;
+}
+
+p {
+    font-size: 120%;
+}
+
+.centre {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
